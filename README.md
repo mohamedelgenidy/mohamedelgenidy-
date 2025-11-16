@@ -1,4 +1,4 @@
-# mohamedelgenidy-# 💫 About Me:
+💫 About Me:
 🔭 I'm currently working on:<br><br>A Computer Vision project to classify tomato plant images using EfficientNetB4 and Transfer Learning.<br><br>Deepening my understanding of Generative AI and Transformer models.<br><br><br>👯 I'm looking to collaborate on:<br><br>Open-source NLP projects, especially those involving chatbots or sequence-to-sequence models.<br><br><br><br>Any project that leverages PyTorch or TensorFlow  for creative AI solutions.<br><br>🤝 I'm looking for help with:<br><br>Advanced techniques for model optimization and deployment (MLOps).<br><br>Connecting with mentors and professionals in the AI/ML industry.<br><br>🌱 I'm currently learning:<br><br>Advanced Generative AI techniques.<br><br>Best practices for building scalable AI/ML pipelines.<br><br>💬 Ask me about:<br><br><br>Python, TensorFlow, PyTorch, and Scikit-learn.<br><br>Building Chatbots and Translation Systems  using Encoder-Decoder models.<br><br><br><br>Computer Vision basics (like CNNs  and Data Augmentation).<br><br>⚡ Fun fact:<br><br>My first chatbot learned to "talk" by analyzing thousands of movie scripts!
 
 
